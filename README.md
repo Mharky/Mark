@@ -1,146 +1,41 @@
 # Mark Daniel C. Saguid - Personal Portfolio
 
-Create a personal portfolio website for **Mark Daniel C. Saguid** from Caigangan, Buenavista, Marinduque. The website should be clean, modern, and mobile-friendly.
+**Aspiring Professional | Driven to Learn and Grow**
 
-It must include the following sections:
+I am Mark Daniel C. Saguid, a 21-year-old aspiring professional from Caigangan, Buenavista, Marinduque. Born on September 8, 2003, I am a Filipino citizen with a strong drive to learn and grow in my career. I am passionate about technology, continuous learning, and building meaningful projects that make a difference.
 
-## 1. **Header / Hero Section**
-- My name: _Mark Daniel C. Saguid_
-- Short tagline: _'Aspiring Professional | Driven to Learn and Grow'_
-- Contact details: email (saguidmarkdaniel@gmail.com), phone (0912-832-9755)
+## Connect with Me
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MarkDanielChaSaguid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kram_daniel_saguid08) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saguidmarkdaniel@gmail.com)
 
-## 2. **About Me**
-Personal profile:
-- Date of Birth: September 8, 2003
-- Age: 21
-- Citizenship: Filipino
-- Civil Status: Single
-- Sex: Male
+## Technical Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 3. **Education**
-- Senior High School (2020–2022) – Buenavista National High School, Brgy. Uno, Buenavista, Marinduque
-- Junior High School (2016–2020) – Buenavista National High School, Brgy. Uno, Buenavista, Marinduque
-- Elementary (2010–2016) – Caigangan Elementary School, Caigangan, Buenavista, Marinduque
+## Personal Information
+- **Date of Birth:** September 8, 2003
+- **Age:** 21
+- **Citizenship:** Filipino
+- **Civil Status:** Single
+- **Location:** Caigangan, Buenavista, Marinduque
+- **Contact:** saguidmarkdaniel@gmail.com | 0912-832-9755
 
-## 4. **Skills**
-Add a placeholder list for computer literacy, teamwork, adaptability, communication, and willingness to learn (I can edit later).
+## Education
+- **Senior High School (2020–2022)** - Buenavista National High School, Brgy. Uno, Buenavista, Marinduque
+- **Junior High School (2016–2020)** - Buenavista National High School, Brgy. Uno, Buenavista, Marinduque
+- **Elementary (2010–2016)** - Caigangan Elementary School, Caigangan, Buenavista, Marinduque
 
-## 5. **Contact Section**
-- Show my email, phone, and location.
-- Add a simple contact form (Name, Email, Message).
+## Core Competencies
+- Computer Literacy
+- Teamwork & Collaboration
+- Adaptability
+- Communication Skills
+- Willingness to Learn
 
-## 6. **Footer**
-- Include © 2025 Mark Daniel C. Saguid
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mharky&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)
 
-Use a **modern color palette** (blue/teal/white) with smooth fonts, rounded corners, and responsive layout. Add simple hover effects for links and buttons. No unnecessary animations—keep it professional but friendly.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mharky&theme=cobalt&hide_border=false)
 
----
-
-## Portfolio Features
-
-This portfolio website includes:
-
-- **Modern Design**: Clean, professional layout with blue/teal color scheme
-- **Responsive Layout**: Works perfectly on desktop, tablet, and mobile devices
-- **Contact Form**: Simple contact form for inquiries
-- **Personal Branding**: Customized with Mark Daniel C. Saguid's information
-- **Professional Sections**: About, Education, Skills, and Contact sections
-- **Mobile-Friendly**: Optimized for all screen sizes
-
-## Technology Stack
-
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Framework**: Gatsby.js (React-based)
-- **Styling**: TailwindCSS
-- **Fonts**: Poppins (Google Fonts)
-- **Responsive**: Mobile-first design approach
-
-## Getting Started
-
-### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn package manager
-
-### Installation
-
-1. **Install Node.js**
-   - Download from https://nodejs.org/
-   - Choose the LTS version
-   - Follow the installation wizard
-
-2. **Install Dependencies**
-   ```bash
-   npm install
-   ```
-
-3. **Start Development Server**
-   ```bash
-   npm start
-   ```
-   or
-   ```bash
-   gatsby develop
-   ```
-
-4. **View Portfolio**
-   - Open your browser to `http://localhost:8000`
-   - Your portfolio will be live and accessible
-
-### Building for Production
-
-```bash
-npm run build
-```
-
-This creates a `public` folder with optimized static files ready for deployment.
-
-## Deployment Options
-
-### Quick Deployment (Recommended)
-- **Netlify**: Drag and drop the `index.html` file to https://netlify.com
-- **Vercel**: Upload to https://vercel.com for instant deployment
-- **GitHub Pages**: Push to GitHub and enable Pages in repository settings
-
-### Gatsby Deployment
-After running `npm run build`, deploy the `public` folder to any static hosting service.
-
-## File Structure
-
-```
-├── src/
-│   ├── components/     # React components
-│   ├── pages/         # Page components
-│   └── css/           # Stylesheets
-├── content/
-│   └── blog/          # Blog posts (Markdown)
-├── gatsby-config.js   # Site configuration
-├── index.html         # Standalone HTML version
-└── package.json       # Dependencies
-```
-
-## Customization
-
-### Updating Personal Information
-Edit `gatsby-config.js` to update:
-- Personal details
-- Contact information
-- Skills and education
-- Social media links
-
-### Styling
-- Colors and fonts can be customized in the CSS variables
-- TailwindCSS classes for responsive design
-- Modern blue/teal color palette
-
-## Contact Information
-
-- **Email**: saguidmarkdaniel@gmail.com
-- **Phone**: 0912-832-9755
-- **Location**: Caigangan, Buenavista, Marinduque
-
-## License
-
-This portfolio is created for Mark Daniel C. Saguid. All rights reserved.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mharky&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
