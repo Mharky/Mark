@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Mark Daniel C. Saguid  
 
-💻 **Computer Science Student | AI & IoT Enthusiast | Full-Stack Developer**  
+💻 **Computer Engineering Student | AI & IoT Enthusiast | Full-Stack Developer**  
 Passionate about building intelligent systems, interactive platforms, and integrating hardware with software solutions.  
 
 ---
