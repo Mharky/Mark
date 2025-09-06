@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Mark Daniel C. Saguid
+👋 Hello, I'm Mark Daniel C. Saguid
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Aspiring+Professional;Driven+to+Learn+%26+Grow;Technology+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
@@ -12,7 +12,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <a href="https://facebook.com/MarkDanielChaSaguid">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -26,7 +26,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
-## 💻 Tech Stack & Skills
+💻 Tech Stack & Skills
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -45,7 +45,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mharky&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mharky&layout=compact&langs_count=8&theme=tokyonight"/>
@@ -60,7 +60,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
-## 🎓 Education Journey
+🎓 Education Journey
 
 <table>
   <tr>
@@ -94,7 +94,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
-## 🚀 Core Competencies
+ 🚀 Core Competencies
 
 <img src="https://img.shields.io/badge/💻_Computer_Literacy-Expert-brightgreen?style=for-the-badge" alt="Computer Literacy"/>
 <img src="https://img.shields.io/badge/🤝_Teamwork-Collaborative-blue?style=for-the-badge" alt="Teamwork"/>
@@ -105,7 +105,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
-## 📍 Personal Information
+ 📍 Personal Information
 
 <table>
   <tr>
@@ -140,13 +140,13 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
-## 🏆 GitHub Trophies
+ 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=Mharky&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 
 <br/>
 
-### 💫 "The journey of a thousand miles begins with one step"
+💫 "The journey of a thousand miles begins with one step"
 
 <img src="https://komarev.com/ghpvc/?username=Mharky&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
