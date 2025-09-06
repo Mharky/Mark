@@ -14,7 +14,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 🌐 Connect With Me
 
-<a href="https://facebook.com/MarkDanielChaSaguid](https://web.facebook.com/mark.daniel.cha.saguid">
+<a href="https://facebook.com/MarkDanielChaSaguid">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://instagram.com/kram_daniel_saguid08">
@@ -94,7 +94,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
- 🚀 Core Competencies
+🚀 Core Competencies
 
 <img src="https://img.shields.io/badge/💻_Computer_Literacy-Expert-brightgreen?style=for-the-badge" alt="Computer Literacy"/>
 <img src="https://img.shields.io/badge/🤝_Teamwork-Collaborative-blue?style=for-the-badge" alt="Teamwork"/>
@@ -105,7 +105,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
- 📍 Personal Information
+📍 Personal Information
 
 <table>
   <tr>
@@ -146,7 +146,7 @@ I am driven by curiosity and a strong desire to learn and grow in my career. Bor
 
 <br/>
 
-💫 "The journey of a thousand miles begins with one step"
+ 💫 "The journey of a thousand miles begins with one step"
 
 <img src="https://komarev.com/ghpvc/?username=Mharky&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
