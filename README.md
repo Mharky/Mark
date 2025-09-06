@@ -1,6 +1,11 @@
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4fc3f7,100:1976d2&height=200&section=header&text=Mark%20Daniel%20C.%20Saguid&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 # 👋 Hi, I'm Mark Daniel C. Saguid  
 
-💻 **Computer Engineering Student | AI & IoT Enthusiast | Full-Stack Developer**  
+💻 **Computer Science Student | AI & IoT Enthusiast | Full-Stack Developer**  
 Passionate about building intelligent systems, interactive platforms, and integrating hardware with software solutions.  
 
 ---
@@ -70,4 +75,10 @@ Passionate about building intelligent systems, interactive platforms, and integr
 [![](https://visitcount.itsvg.in/api?id=Mharky&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976d2,100:4fc3f7&height=120&section=footer"/>
+</p>
+
 ✨ *“Code. Create. Innovate.”* ✨
